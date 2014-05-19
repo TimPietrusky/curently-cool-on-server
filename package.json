@@ -1,0 +1,22 @@
+{
+  "name": "curntly-cool-on-server-restify",
+  "version": "0.0.1",
+  "description": "Server for curntly.cool/on",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TimPietrusky/curently-cool-on-server"
+  },
+  "author": "Tim Pietrusky <timpietrusky@gmail.com> (http://timpietrusky.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimPietrusky/curently-cool-on-server/issues"
+  },
+  "homepage": "https://github.com/TimPietrusky/curently-cool-on-server",
+  "devDependencies": {
+    "express": "~4.2.0"
+  }
+}
